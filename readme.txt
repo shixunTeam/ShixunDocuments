@@ -1,2 +1,2 @@
-init
+这是实训小组的文档管理
 documnet management
